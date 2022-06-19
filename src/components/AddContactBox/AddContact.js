@@ -1,4 +1,4 @@
-import s from './AddContact.module.css';
+import './AddContact.module.css';
 import React, { Component } from 'react';
 
 
